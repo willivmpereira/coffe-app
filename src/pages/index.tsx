@@ -3,13 +3,13 @@ import Head from 'next/head'
 import Header from '../components/Header'
 import { About } from '../components/About'
 import { Product } from '../components/Product'
-import Image from 'next/image'
-import styles from '../styles/Home.module.css'
 import { Qualities } from '../components/Qualities'
+import { Gallery } from '../components/Gallery'
 import { Testimonials } from '../components/Testimonials'
 import { Contact } from '../components/Contact'
 import { Footer } from '../components/Footer'
-import { Container } from '../components/Container'
+
+import styles from '../styles/Home.module.css'
 
 const Home: NextPage = () => {
   return (
@@ -22,6 +22,7 @@ const Home: NextPage = () => {
       <About/>
       <Product/>
       <Qualities/>
+      <Gallery/>
       <Testimonials/>
       <Contact/>
       <Footer/>
