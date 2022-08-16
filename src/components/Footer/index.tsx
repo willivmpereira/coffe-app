@@ -24,7 +24,7 @@ export const Footer = () => {
                                         <svg width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
                                             <path d="M12.875 1H4.95833C2.77221 1 1 2.77221 1 4.95833V12.875C1 15.0611 2.77221 16.8333 4.95833 16.8333H12.875C15.0611 16.8333 16.8333 15.0611 16.8333 12.875V4.95833C16.8333 2.77221 15.0611 1 12.875 1Z" stroke="white" strokeLinecap="round" strokeLinejoin="round"/>
                                             <path d="M11.6666 8.00149C11.7643 8.66035 11.6518 9.33324 11.345 9.92446C11.0383 10.5157 10.5529 10.9951 9.95793 11.2946C9.36297 11.594 8.68874 11.6983 8.03114 11.5924C7.37353 11.4866 6.76603 11.1761 6.29505 10.7052C5.82407 10.2342 5.51359 9.62668 5.40778 8.96907C5.30196 8.31147 5.40619 7.63724 5.70565 7.04228C6.0051 6.44733 6.48454 5.96195 7.07575 5.65518C7.66697 5.34841 8.33986 5.23587 8.99872 5.33357C9.67079 5.43323 10.293 5.7464 10.7734 6.22681C11.2538 6.70723 11.567 7.32942 11.6666 8.00149Z" stroke="white" strokeLinecap="round" strokeLinejoin="round"/>
-                                            <path d="M12.8542 4.146H12.8625" stroke="white" stroke-width="2" strokeLinecap="round" strokeLinejoin="round"/>
+                                            <path d="M12.8542 4.146H12.8625" stroke="white" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
                                         </svg>
                                     </a>
                                 </li>
